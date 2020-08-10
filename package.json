@@ -1,0 +1,23 @@
+{
+  "name": "estudapi",
+  "version": "1.0.0",
+  "description": "REST Api to serve Estud app.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafael-mq/estudapi.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Rafael Moreira Queiroz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafael-mq/estudapi/issues"
+  },
+  "homepage": "https://github.com/rafael-mq/estudapi#readme"
+}
